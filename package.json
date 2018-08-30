@@ -1,0 +1,26 @@
+{
+  "name": "date-time-utils",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jean0218/date-time-utils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jean0218/date-time-utils/issues"
+  },
+  "homepage": "https://github.com/jean0218/date-time-utils#readme",
+  "devDependencies": {
+    "babel-jest": "^23.4.2",
+    "jest": "^23.5.0"
+  },
+  "dependencies": {
+    "babel-preset-env": "^1.7.0"
+  }
+}
