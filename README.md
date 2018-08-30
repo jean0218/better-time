@@ -62,7 +62,7 @@ npm test
     
     #### 方法说明
     | 参数 | 说明 | 返回 | 默认值 |
-    |---|---|---|---|---|
+    |---|---|---|---|
     |get() | 获取操作后的日期 | string | null |
     |nextMonth() | 获取下一月时间 | string | null |
     |toObject() | 时间字符串转对象 | object | null |
