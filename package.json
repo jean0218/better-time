@@ -1,5 +1,5 @@
 {
-  "name": "date-time-utils",
+  "name": "simple-datetime-utils",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jean0218/date-time-utils.git"
+    "url": "git+https://github.com/jean0218/simple-datetime-utils.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jean0218/date-time-utils/issues"
+    "url": "https://github.com/jean0218/simple-datetime-utils/issues"
   },
-  "homepage": "https://github.com/jean0218/date-time-utils#readme",
+  "homepage": "https://github.com/jean0218/simple-datetime-utils#readme",
   "devDependencies": {
     "babel-jest": "^23.4.2",
     "jest": "^23.5.0"

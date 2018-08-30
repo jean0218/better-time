@@ -1,10 +1,10 @@
 
-## date-time-utils
+## simple-datetime-utils
 处理日期时间、获取日历信息等。
 
 ## 安装使用
 ```js
-npm install date-time-utils
+npm install simple-datetime-utils
 ```
 ## 测试
 ```
